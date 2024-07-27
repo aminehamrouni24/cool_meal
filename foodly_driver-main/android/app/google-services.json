@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1057984911405",
+    "firebase_url": "https://foodly-flutter-dc94b-default-rtdb.firebaseio.com",
+    "project_id": "foodly-flutter-dc94b",
+    "storage_bucket": "foodly-flutter-dc94b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057984911405:android:4ad09cf2a4b1e9dd94c0a4",
+        "android_client_info": {
+          "package_name": "com.dbestech.foodly_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057984911405-vi9n5gddnb3lfa3er0af5iqaroiv36g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA09oOMVS63J-gyKlk0TyHQDNWuzmbig0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057984911405-vi9n5gddnb3lfa3er0af5iqaroiv36g9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057984911405-fg5dge90ofbfrs3tv0l72u08lunsk4ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.foodlyUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057984911405:android:df39d9af224e7a9394c0a4",
+        "android_client_info": {
+          "package_name": "com.dbestech.foodly_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057984911405-vi9n5gddnb3lfa3er0af5iqaroiv36g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA09oOMVS63J-gyKlk0TyHQDNWuzmbig0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057984911405-vi9n5gddnb3lfa3er0af5iqaroiv36g9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057984911405-fg5dge90ofbfrs3tv0l72u08lunsk4ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.foodlyUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
